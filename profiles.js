@@ -1,6 +1,3 @@
-// **Group members profiles**   
-// Each profile consists of (1) avatar, (2) username, (3) personal description, (4) number of "likes" the profile will receive throughout the interaction
-	
 window.others = {
   "posts" : [
       {
@@ -13,13 +10,13 @@ window.others = {
         "avatar": "avatars/others/sarah.png",
         "username": "Sarah",
         "text": "Let me introduce myself. I’m Sarah, married, and mother of two wonderful (grown up) children. My career has been a bit peculiar. Starting off as a graduate historian, I switched to an entirely different discipline: occupational assessor trying to help young people with disabilities to get a job. I’ve just retired and started spending more time on my hobbies, such as singing, reading, and playing volleyball.",
-        "likes": [12000, 14000,15000,35000,80000,100000,110000,150000,20000] //9
+        "likes": [12000, 14000, 15000, 35000, 80000, 100000, 110000, 150000, 20000] //9
       },
       {
         "avatar": "avatars/others/john.png",
         "username": "John",
         "text": "Hi there, I’m 57 years old, married, with two kids. I’ve been a computer programmer in the states for about 30 years, but don’t worry: I don’t have the dusty haircut, oversized buttoned shirt and nerdie big frame glasses. Looking forward to working with you all. Cheers, John",
-		"likes": [20000, 21000] //2
+        "likes": [20000, 21000] //2
       },
       {
         "avatar": "avatars/others/anca.png",
@@ -33,7 +30,7 @@ window.others = {
         "text": "My life revolves around rock climbing. I started climbing when I was 12 (turning 18 soon) and usually climb 4-5 hours a day. Climbing never bores me, because each time is different – the routes, the weather, my strength and endurance. It’s great!",
         "likes": [40000, 450000, 90000, 100000, 150000, 155000] //6
       },
-    {
+      {
         "avatar": "avatars/others/mary.png",
         "username": "Mary",
         "text": "My name is Mary and I am 49 years old. I have a husband and 2 grown sons. My family and I lived in different countries. Our sons attended international schools wherever we went and since moving to China, I found work at those schools as well. Besides roaming around the world, I like playing games. Board games, cards, black jack or poker, mah jong, or silly games on Facebook, jig saws, basically anything",
@@ -43,9 +40,9 @@ window.others = {
         "avatar": "avatars/others/lauren.png",
         "username": "Lauren",
         "text": "I’m Lauren, I love to hang out with friends and go shopping. Just doing some online studies here!",
-        "likes": [12000, 38000] //1
+        "likes": [12000, 38000] //2
       },
-          {
+      {
         "avatar": "avatars/others/kim.png",
         "username": "Ky",
         "text": "Hey, guys. I'm 19, native Korean. I've been in America for about four years now.I consider myself pretty nice, though not a total angel. I just like being friendly to people I meet. In my spare time, I like making all kinds of friends, having conversations about whatever, looking at paintings, using makeup, reading, singing (show choir representtt!), making jewelry, and eating delicious food. Enjoy your day, stay out of trouble. <3",
@@ -67,8 +64,8 @@ window.others = {
         "avatar": "avatars/others/jane.png",
         "username": "Jane",
         "text": "Dear all, my name is Jane and I will soon have an important interview. This is all I can think about these days. I hope you're doing well",
-        "likes": [10000, 50000] //6
-      },
+        "likes": [10000, 50000] //2
+      }
 
     ]
   };
